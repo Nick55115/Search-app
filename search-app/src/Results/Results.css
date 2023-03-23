@@ -1,0 +1,27 @@
+
+.results {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 135px 0;
+}
+
+.resultItem {
+    margin-left: 50px;
+}
+
+
+.line {
+    border-top: 1px solid #5f6368;
+    margin: 0 20px 0 14px;
+    padding-bottom: 4px;
+}
+
+.title {
+    color: #8ab4f8;
+}
+
+.description {
+    color: #bdc1c6;
+    font-size: 14px;
+}
